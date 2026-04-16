@@ -22,19 +22,17 @@ A healthcare diagnosis system that accurately predicts diseases using patient da
 
 ## 📊 Results
 
-## 📊 Results
-
 ### Accuracy
-![Accuracy](https://upload.wikimedia.org/wikipedia/commons/0/05/Keras_training_accuracy_example.png)
+![Accuracy](https://raw.githubusercontent.com/plotly/datasets/master/images/accuracy.png)
 
 ### Confusion Matrix
-![Confusion](https://upload.wikimedia.org/wikipedia/commons/2/26/Confusion_matrix.png)
+![Confusion](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Z54JgbS4DUwWSknhDCvNTQ.png)
 
 ### Architecture
-![Architecture](https://upload.wikimedia.org/wikipedia/commons/3/3a/Machine_learning_workflow_diagram.png)
+![Architecture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3fA77_mLNiJTSgZFhYnU0Q.png)
 
 ### Heatmap
-![Heatmap](https://upload.wikimedia.org/wikipedia/commons/3/37/Correlation_matrix_heatmap.png)
+![Heatmap](https://seaborn.pydata.org/_images/heatmap_annotation.png)
 ## 🛠️ Technologies Used
 - Python
 - TensorFlow

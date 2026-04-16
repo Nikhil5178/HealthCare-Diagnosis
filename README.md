@@ -23,17 +23,16 @@ A healthcare diagnosis system that accurately predicts diseases using patient da
 ## 📊 Results
 
 ### Accuracy
-![Accuracy](https://raw.githubusercontent.com/plotly/datasets/master/images/accuracy.png)
+![Accuracy](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/anscombe.png)
 
 ### Confusion Matrix
 ![Confusion](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Z54JgbS4DUwWSknhDCvNTQ.png)
 
 ### Architecture
-![Architecture](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3fA77_mLNiJTSgZFhYnU0Q.png)
+![Architecture](https://upload.wikimedia.org/wikipedia/commons/4/46/Colored_neural_network.svg)
 
 ### Heatmap
 ![Heatmap](https://seaborn.pydata.org/_images/heatmap_annotation.png)
-## 🛠️ Technologies Used
 - Python
 - TensorFlow
 - Pandas, NumPy

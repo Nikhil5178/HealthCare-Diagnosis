@@ -20,18 +20,19 @@ A healthcare diagnosis system that accurately predicts diseases using patient da
 - Achieved ~85-90% accuracy
 - Improved prediction using multiple features
 
-### Accuracy Graph
+## 📊 Results
+
+### Accuracy
 ![Accuracy](outputs/accuracy.png)
 
 ### Confusion Matrix
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Confusion](outputs/confusion_matrix.png)
 
-### System Architecture
+### Architecture
 ![Architecture](outputs/architecture.png)
 
-### Correlation Heatmap
+### Heatmap
 ![Heatmap](outputs/heatmap.png)
-
 ## 🛠️ Technologies Used
 - Python
 - TensorFlow
